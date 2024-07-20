@@ -409,7 +409,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EQModule.kicad_pro",
+    "filename": "PowerAmpModule.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "EQModule.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -486,7 +486,7 @@
   },
   "sheets": [
     [
-      "61b46bba-e42d-4a6e-800e-6eb540e0c6f2",
+      "242f2b8a-204c-43a5-9206-469c7459a187",
       ""
     ]
   ],
