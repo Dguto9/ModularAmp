@@ -445,7 +445,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "Gain2Module.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
